@@ -1,5 +1,6 @@
 import React from 'react';
 import './LandingPage.css';
+import LandingBanner from '../../components/LandingBanner/LandingBanner';
 
 class LandingPage extends React.Component {
 
@@ -7,7 +8,7 @@ class LandingPage extends React.Component {
     render() {
         return (
             <div className="LandingPage">
-                Hello World
+                <LandingBanner />
             </div>
         )
     }
