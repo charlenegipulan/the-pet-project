@@ -1,2 +1,3 @@
-#THE PET PROJECT 
-##Created with love by Char and Rae 
+# THE PET PROJECT 
+A pet adoption/locator type application.
+## Created with love by Char and Rae 
