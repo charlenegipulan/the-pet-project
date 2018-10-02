@@ -1,0 +1,10 @@
+.LandingBanner {
+    background-color: #F7F6F5;
+    height: 10vh;
+    font-family: 'Questrial', sans-serif;
+}
+
+.LandingBanner h1 {
+    margin: 0 auto;
+    font-size: 5em;
+}
