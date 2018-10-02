@@ -15,7 +15,6 @@ class LandingPage extends React.Component {
                 <div className='SearchBar'>
                     <input placeholder='I am looking for ...'/>
                 </div>
-                <LandingCarousel />
             </div>
         )
     }
