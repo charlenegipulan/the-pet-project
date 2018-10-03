@@ -1,7 +1,7 @@
 import React from 'react';
 import './LandingPage.css';
 import LandingBanner from '../../components/LandingBanner/LandingBanner';
-import LandingCarousel from '../../components/LandingCarousel/LandingCarousel';
+import LandingImage from '../../components/LandingCarousel/LandingCarousel';
 import NavBar from '../../components/NavBar/NavBar';
 
 class LandingPage extends React.Component {
@@ -15,6 +15,7 @@ class LandingPage extends React.Component {
                 <div className='SearchBar'>
                     <input placeholder='I am looking for ...'/>
                 </div>
+                <LandingImage />
             </div>
         )
     }
