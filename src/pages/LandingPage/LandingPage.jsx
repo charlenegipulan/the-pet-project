@@ -12,9 +12,6 @@ class LandingPage extends React.Component {
             <div className='LandingPage'>
                 <LandingBanner />
                 <NavBar />
-                <div className='SearchBar'>
-                    <input placeholder='I am looking for ...'/>
-                </div>
                 <LandingImage />
             </div>
         )
