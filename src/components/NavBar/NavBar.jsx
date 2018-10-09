@@ -7,9 +7,9 @@ const NavBar = props => {
         <div className='NavBar'>
             <div className='nav-links'>
                 <ul>
-                    <li>Dogs</li>
-                    <li>Cats</li>
-                    <li>Find pets to adopt near you</li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">More Info</a></li>
+                    <li><a href="#">Services</a></li>
                 </ul>
             </div>
         </div>

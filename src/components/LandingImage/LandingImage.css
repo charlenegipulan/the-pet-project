@@ -1,4 +1,8 @@
-.image {
-    width: 80vw;
-    height: 50vh;
+.LandingImage-image {
+    margin-top: 5vh;
+}
+
+.LandingImage-image img {
+    width: 80vh;
+    height: 60vh;
 }
