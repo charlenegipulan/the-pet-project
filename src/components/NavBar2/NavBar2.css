@@ -1,0 +1,36 @@
+.NavBar2 {
+    display: flex;
+    background: #3660FB;
+    height: 8vh;
+    padding: 1em;
+}
+
+.SearchBar {
+    width: 80vw;
+}
+
+.SearchBar input {
+    width: 60vw;
+    height: 4.5vh;
+    border: none;
+}
+
+.user-nav {
+    width: 20vw;
+    padding: .5em;
+}
+
+.user-nav a {
+    color: #FEFEFE;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 1em;
+}
+
+.user-nav ul {
+    list-style: none;
+}
+
+.user-nav ul > li {
+    display: inline-block;
+}

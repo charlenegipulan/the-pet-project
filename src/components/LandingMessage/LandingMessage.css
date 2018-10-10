@@ -1,0 +1,17 @@
+.LandingMessage-text {
+    background: #FFB765;
+    width: 60%;
+    height: 20vh; 
+    margin: 20vh auto;
+    padding-top: 3vh;
+}
+
+.LandingMessage-text h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FEFEFE;
+}
+
+.LandingMessage-text p {
+    font-family: 'Montserrat', sans-serif;
+    color: #FEFEFE;
+}
