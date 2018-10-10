@@ -2,8 +2,8 @@
     background: #FFB765;
     width: 60%;
     height: 20vh; 
-    margin: 20vh auto;
     padding-top: 3vh;
+    margin: 10vh auto .5vh auto;
 }
 
 .LandingMessage-text h1 {
@@ -14,4 +14,32 @@
 .LandingMessage-text p {
     font-family: 'Montserrat', sans-serif;
     color: #FEFEFE;
+}
+
+.LandingIcons {
+    display: flex;
+    justify-content: center;
+}
+
+.LandingIcons img {
+    width: 5vw;
+    height: 10vh;
+    margin: 20px;
+}
+
+.icon-card {
+    width: 30%;
+    background-color: #EAEAEA;
+    border: 2px solid #FEFEFE;
+}
+
+.LandingMessage-text2 {
+    padding: 20px;
+    margin: 5vh 2vw;
+}
+
+.LandingMessage-text2 p {
+    font-size: 2em;
+    font-family: 'Montserrat', sans-serif;
+    color: #303030;
 }
