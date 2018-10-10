@@ -6,8 +6,7 @@
 
 .nav-links ul > li {
   display: inline-block;
-  margin: .5em 8em;
-
+  margin: .1em 3.5em;
 }
 
 .nav-links a {
@@ -15,3 +14,29 @@
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
 }
+
+.NavBar {
+  display: flex;
+  width: 100%;
+  height: 10vh;
+}
+
+.title-text {
+  width: 40%;
+  background: #FEFEFE;
+  padding-left: 1em;
+}
+
+.nav-links {
+  width: 60%;
+  background: #FEFEFE;
+  padding-top: 1.5em;
+}
+
+.title-text h1 {
+  font-size: 3em;
+  color: #3660FB;
+  text-align: left;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+

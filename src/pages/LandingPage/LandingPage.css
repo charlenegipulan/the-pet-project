@@ -1,0 +1,11 @@
+.LandingPage-center {
+    display: flex;
+}
+
+.center-1 {
+    width: 60%;
+}
+
+.center-2 {
+    width: 40%;
+}
